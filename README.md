@@ -9,3 +9,6 @@ The App was built using Ruby On Rails at the end of le Wagon Bootcamp.
 * Mapbox integration
 
 [Check it Out!](https://brunchtime-production.up.railway.app/)
+<br>
+<br>
+>Mostly design for smaller screens (To be open on the go on a mobile device).
