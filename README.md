@@ -1,6 +1,6 @@
 
 ## What is that project
-Brunchtime allows users to know the wait time on specific brunch restaurants.
+Brunchtime allows users to know the wait time of specific brunch restaurants.
 The App was built using Ruby On Rails at the end of le Wagon Bootcamp.
 
 ### Functionalities
